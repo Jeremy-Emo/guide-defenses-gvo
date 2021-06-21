@@ -26,7 +26,7 @@ Dans tous les cas il faut toujours vous poser ces questions :
 - Si ma team prend le second tour : est-ce qu'elle est assez tanky pour encaisser le premier tour ennemi ?
 
 ## Troisième règle : un peu de logique bon sang !
-- Lire les sorts de vos monstres c'est fort
+- Lire les sorts de vos monstres c'est fort. Par exemple, NON, Hwa et une chasseresse au fauve ensemble, ça ne fonctionne pas !
 - Ne mettez pas de monstres au hasard, il faut qu'ils apportent un réel intérêt à votre team.
 - Si votre propre défense vous parait facile à attaquer, c'est que ce n'est pas une bonne défense
 - On évite les monstres avec des runes manquantes/pas montées...
