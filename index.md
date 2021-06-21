@@ -21,6 +21,10 @@ Dans ce genre de compo, n'oubliez pas :
 - Si votre défense est constituée de tanks, n'oubliez pas un mob qui va apporter du sustain à votre compo.
 - N'oubliez pas d'apporter des dégâts à votre compo. Non Rina / Chasun / Juno n'est pas une bonne défense menaçante...
 
+Dans tous les cas il faut toujours vous poser ces questions :
+- Si ma team prend le premier tour : est-ce qu'elle a assez de dégâts pour tuer, ou est-ce qu'elle a un strip et assez de contrôle derrière pour empêcher l'adversaire de jouer ?
+- Si ma team prend le second tour : est-ce qu'elle est assez tanky pour encaisser le premier tour ennemi ?
+
 ## Troisième règle : un peu de logique bon sang !
 - Lire les sorts de vos monstres c'est fort
 - Ne mettez pas de monstres au hasard, il faut qu'ils apportent un réel intérêt à votre team.
@@ -31,6 +35,7 @@ Dans ce genre de compo, n'oubliez pas :
 ## Quatrième règle : ma défense doit être difficile à attaquer
 - On bannit les défenses mono-éléments hors L&D, ça se tank beaucoup trop facilement.
 - Posez-vous la question : est-ce que ma défense se fait Lushen ou Bulldo/Copper ? Si oui, demandez-vous comment vous pouvez empêcher ça.
+- On évite les fausses bonnes idées : ce n'est pas parce que Velajuel a un lead 50% PV feu que faire une team full feu est un bon plan.
 
 ## Cinquième règle : les monstres sont importants
 En siège, il y a évidemment des monstres plus forts que d'autres sur lesquels il va vous falloir vous concentrer. On est pas vraiment sur une règle ici, mais c'était important d'en parler. Monter ces monstres vous facilitera la vie pour constituer vos défenses, ce sont des unités qu'on retrouve tout le temps à tout niveau.
@@ -62,6 +67,14 @@ Mentions honorables démodées à HL :
 - Martina
 - Iris
 
+## Sixième règle : on n'oublie pas de mettre un leader skill...
+Comme dans tous les contenus du jeu, on n'oublie pas le leader skill ! Et de préférence on en met un bon.
+
+Les joueurs sont à peu d'accord pour dire que les leader skills sont à prioriser dans cet ordre :
+
+Vitesse > PV > Résistance > Défense > Attaque > Précision > Taux Critique
+
+L'ordre entre Vitesse et PV va dépendre du type de défense. Pourquoi le lead DEF est aussi bas ? A cause du nombre d'ignore def qui trainent en offenses gvo.
 
 ## Quelques exemples qui ne fonctionnent pas
 - Leo / Chasun / Mav => Full vent, une Rina permet de passer la défense facilement car elle va prendre le focus de tous les mobs et permettre à un nuker feu de rouler sur la def. C'est une défense se tombant avec deux mobs uniquement, vraiment pas terrrible.
