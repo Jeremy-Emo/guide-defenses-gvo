@@ -70,7 +70,7 @@ Mentions honorables démodées à HL :
 ## Sixième règle : on n'oublie pas de mettre un leader skill...
 Comme dans tous les contenus du jeu, on n'oublie pas le leader skill ! Et de préférence on en met un bon.
 
-Les joueurs sont à peu d'accord pour dire que les leader skills sont à prioriser dans cet ordre :
+Les joueurs sont à peu près d'accord pour dire que les leader skills sont à prioriser dans cet ordre :
 
 Vitesse > PV > Résistance > Défense > Attaque > Précision > Taux Critique
 
