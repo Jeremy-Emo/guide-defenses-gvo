@@ -1,6 +1,6 @@
 # Comment faire une bonne défense gvo (orienté débutant) ?
 
-Bonjour tout le monde, un petit guide orienté débutant pour donner des bases à tout joueur voulant se lancer dasn le monde merveilleux des défenses GvO et qui ne sait pas par quoi commencer. En espérant pouvoir vous aider (coucou la guilde) :smile:
+Bonjour tout le monde, un petit guide orienté débutant pour donner des bases à tout joueur voulant se lancer dans le monde merveilleux des défenses GvO et qui ne sait pas par quoi commencer. En espérant pouvoir vous aider (coucou la guilde) :smile:
 
 ## Première règle : le nombre de défenses
 Concentrez vous sur la qualité plutôt que la quantité. Vaut mieux avoir 3 bonnes défenses que 10 défenses toutes nazes.
