@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# Comment faire une bonne défense gvo (orienté débutant) ?
 
-You can use the [editor on GitHub](https://github.com/Jeremy-Emo/guide-defenses-gvo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bonjour tout le monde, un petit guide orienté débutant pour donner des bases à tout joueur voulant se lancer dasn le monde merveilleux des défenses GvO et qui ne sait pas par quoi commencer. En espérant pouvoir vous aider (coucou la guilde) :smile:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Première règle : le nombre de défenses
+Concentrez vous sur la qualité plutôt que la quantité. Vaut mieux avoir 3 bonnes défenses que 10 défenses toutes nazes.
+L'objectif en GVO est d'avoir un ratio de victoires positif contrairement aux adversaires. Et pour cela il n'y a pas de secrets il faut qu'ils échouent leurs attaques :wink:
 
-### Markdown
+## Deuxième règle : le type de défense
+On siège on peut reconnaître deux types de défenses :
+### Les teams rapides :
+Peu recommandées avant le late game, ces défenses sont généralement constituées d'un mob donnant le tour, d'un bdef et d'un nuker. Le but d'une telle composition est de prendre le premier tour et de ruiner l'adversaire avant qu'il ne puisse jouer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Exemple : Gallion / Clara / Yen
 
-```markdown
-Syntax highlighted code block
+Ces défenses nécessitent de grosses runes swift pour fonctionner. Et bien évidemment d'un lead speed, je rappelle qu'on veut jouer en premier.
+### Les teams à synergie :
+Le plus classique et le plus simple à faire en early game. Ces défenses sont constituées de mobs intéragissant entre eux ou à minima s'apportant quelque chose. Les 3 monstres sont généralement runés en violent pour apporter une grosse part aléatoire à l'attaquant.
 
-# Header 1
-## Header 2
-### Header 3
+Dans ce genre de compo, n'oubliez pas :
+- Si votre défense est constituée de tanks, n'oubliez pas un mob qui va apporter du sustain à votre compo.
+- N'oubliez pas d'apporter des dégâts à votre compo. Non Rina / Chasun / Juno n'est pas une bonne défense menaçante...
 
-- Bulleted
-- List
+## Troisième règle : un peu de logique bon sang !
+- Lire les sorts de vos monstres c'est fort
+- Ne mettez pas de monstres au hasard, il faut qu'ils apportent un réel intérêt à votre team.
+- Si votre propre défense vous parait facile à attaquer, c'est que ce n'est pas une bonne défense
+- On évite les monstres avec des runes manquantes/pas montées...
+- Il faut que vos monstres puissent jouer un jour. Donc qu'ils ne soient pas des chips mourrant sur le moindre boost ATB + nuker ou qu'ils soient assez rapides pour outspeed l'adversaire. Genre 3 nukers à +20 de vitesse, ils ont beau taper à 30k si ils jouent jamais ça leur fait une belle jambe.
 
-1. Numbered
-2. List
+## Quatrième règle : ma défense doit être difficile à attaquer
+- On bannit les défenses mono-éléments hors L&D, ça se tank beaucoup trop facilement.
+- Posez-vous la question : est-ce que ma défense se fait Lushen ou Bulldo/Copper ? Si oui, demandez-vous comment vous pouvez empêcher ça.
 
-**Bold** and _Italic_ and `Code` text
+## Cinquième règle : les monstres sont importants
+En siège, il y a évidemment des monstres plus forts que d'autres sur lesquels il va vous falloir vous concentrer. On est pas vraiment sur une règle ici, mais c'était important d'en parler. Monter ces monstres vous facilitera la vie pour constituer vos défenses, ce sont des unités qu'on retrouve tout le temps à tout niveau.
 
-[Link](url) and ![Image](src)
-```
+### Leads speed "accessibles" :
+- Gallion
+- Carcano
+- Khmun
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Mentions honorables démodées à HL :
+- Garo
+- Susanoo
 
-### Jekyll Themes
+### Trucs relous "accessibles" :
+- Orion
+- Vigor
+- Triana
+- Jeanne
+- Clara
+- Skogul
+- Miho
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jeremy-Emo/guide-defenses-gvo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mentions honorables démodées à HL :
+- Aegir
 
-### Support or Contact
+### 4nat L&D OP si la chance est avec vous :
+- Kinki
+- Molly
+- Martina
+- Iris
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Quelques exemples qui ne fonctionnent pas
+- Leo / Chasun / Mav => Full vent, une Rina permet de passer la défense facilement car elle va prendre le focus de tous les mobs et permettre à un nuker feu de rouler sur la def. C'est une défense se tombant avec deux mobs uniquement, vraiment pas terrrible.
+- Baleygr / Sabrina / Shaina => catégorie "OH OUI LUSHEN MOI !" ça se pose pas trop mal. Et pas besoin d'avoir un lead speed pour le coup, y'en a pas en face et il n'y a pas de boost ATB =)
+- Velajuel / Laika / Kahli => Boost ATB + Julie, y'a plus rien.
+
+## Quelques outils pour finir :
+[Un site pour rechercher des défenses et leurs counters](https://swgt.io/3mdc/)
+
+[Un discord français orienté GvO => Le Siège Pour Les Nuls](https://discord.gg/NUqaMK43eU)
