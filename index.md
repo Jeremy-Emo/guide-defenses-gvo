@@ -18,7 +18,7 @@ Ces défenses nécessitent de grosses runes swift pour fonctionner. Et bien évi
 Le plus classique et le plus simple à faire en early game. Ces défenses sont constituées de mobs intéragissant entre eux ou à minima s'apportant quelque chose. Les 3 monstres sont généralement runés en violent pour apporter une grosse part aléatoire à l'attaquant.
 
 Dans ce genre de compo, n'oubliez pas :
-- Si votre défense est constituée de tanks, n'oubliez pas un mob qui va apporter du sustain à votre compo.
+- Si votre défense est constituée de tanks, n'oubliez pas un mob qui va apporter du soin à votre compo.
 - N'oubliez pas d'apporter des dégâts à votre compo. Non Rina / Chasun / Juno n'est pas une bonne défense menaçante...
 
 Dans tous les cas il faut toujours vous poser ces questions :
